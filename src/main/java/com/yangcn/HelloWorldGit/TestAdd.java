@@ -10,4 +10,8 @@ public class TestAdd {
 	public void send() {
 		
 	}
+	
+	public void omg() {
+		
+	}
 }
