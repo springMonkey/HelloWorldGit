@@ -12,6 +12,5 @@ public class TestAdd {
 	}
 	
 	public void omg(String omg,int omd) {
-		
 	}
 }
