@@ -11,7 +11,7 @@ public class TestAdd {
 		
 	}
 	
-	public void omg() {
+	public void omg(int i) {
 		
 	}
 }
