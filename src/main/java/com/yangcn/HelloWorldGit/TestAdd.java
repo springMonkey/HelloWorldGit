@@ -11,7 +11,7 @@ public class TestAdd {
 		
 	}
 	
-	public void omg(int i) {
+	public void omg(String omg) {
 		
 	}
 }
