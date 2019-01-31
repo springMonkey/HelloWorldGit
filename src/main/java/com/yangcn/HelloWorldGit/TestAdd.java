@@ -7,4 +7,7 @@ package com.yangcn.HelloWorldGit;
  */
 public class TestAdd {
 
+	public void send() {
+		
+	}
 }
