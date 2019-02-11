@@ -23,4 +23,11 @@ public class App
     public void OMG() {
     	
     }
+    
+    /**
+     * 测试分支添加方法
+     */
+    public void testOmg() {
+    	
+    }
 }
