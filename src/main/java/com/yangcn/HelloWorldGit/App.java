@@ -14,4 +14,8 @@ public class App
     public void add() {
     	
     }
+    
+    public void testIgnore() {
+    	
+    }
 }
