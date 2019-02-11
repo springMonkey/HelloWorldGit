@@ -30,4 +30,8 @@ public class App
     public void testOmg() {
     	
     }
+    
+    public void testOMG2() {
+    	
+    }
 }
