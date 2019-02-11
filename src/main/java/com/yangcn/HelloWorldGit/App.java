@@ -39,4 +39,6 @@ public class App
     public void masterOMG() {
     	
     }
+    
+    public void masterOMG2() {}
 }
