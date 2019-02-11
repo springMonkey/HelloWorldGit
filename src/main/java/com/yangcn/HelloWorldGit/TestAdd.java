@@ -11,7 +11,6 @@ public class TestAdd {
 		
 	}
 	
-	public void omg(String omg,String omg1) {
-		
+	public void omg(String omg,int omd) {
 	}
 }
