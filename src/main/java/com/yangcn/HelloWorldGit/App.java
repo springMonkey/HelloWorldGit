@@ -41,4 +41,9 @@ public class App
     }
     
     public void masterOMG2() {}
+    
+    
+    public void testMaster() {
+    	
+    }
 }
