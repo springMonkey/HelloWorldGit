@@ -14,4 +14,11 @@ public class App
     public void add() {
     	
     }
+    /**
+     * 添加OMG方法
+     */
+    public void OMG() {
+    	
+    }
+    
 }
