@@ -46,4 +46,7 @@ public class App
     public void testMaster() {
     	
     }
+    public void testMaster1() {
+    	
+    }
 }
